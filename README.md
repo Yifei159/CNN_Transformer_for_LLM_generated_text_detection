@@ -20,7 +20,7 @@ The main functionality of this software also requires the data.csv
 datasets, which is provided by Grinberg Z. Human vs. LLM Text Corpus [Data set]. Kaggle, 2024.
 The dataset can be found in:
 
-https://www.kaggle.com/datasets/starblasters8/human-vs-llm-text-corpus/data
+www.kaggle.com/datasets/starblasters8/human-vs-llm-text-corpus/data
 
 Download the data and name it data.csv and put it under the data catalog before running the program.
 
