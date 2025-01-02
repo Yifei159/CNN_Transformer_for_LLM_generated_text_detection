@@ -1,0 +1,17 @@
+numpy==1.26.4
+pandas==2.2.0
+matplotlib==3.8.2
+tensorflow==2.14.0
+scikit-learn==1.4.0
+tokenizers==0.15.2
+transformers==4.38.1
+absl-py==2.1.0
+h5py==3.10.0
+keras==2.14.0
+protobuf==4.25.2
+six==1.16.0
+astunparse==1.6.3
+wrapt==1.14.1
+opt-einsum==3.3.0
+gast==0.5.4
+cloudpickle==3.0.0
